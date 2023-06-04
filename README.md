@@ -25,6 +25,7 @@ Basic Architecture -
 To get a local copy of the project up and running, follow these steps:
 
 1. Clone the repository.
+  - git clone https://github.com/AmaanAlii/Weather-App
 
 2. Install the dependencies.
 
